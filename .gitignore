@@ -1,2 +1,10 @@
 # .idea
 **/.idea
+
+# CMake
+cmake-build-*/
+CMakeCache.txt
+
+# IntelliJ
+out/
+
